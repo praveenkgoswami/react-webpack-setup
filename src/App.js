@@ -9,7 +9,7 @@ import './assets/style/style.scss';
 
 // import Routes from "./routes";
 // import ErrorBoundary from './components/ErrorBoundary';
-import Form from "./js/components/Form";
+import Home from "./js/components/home";
 
 // const App = () => (
 // //   <ErrorBoundary>
@@ -18,7 +18,7 @@ import Form from "./js/components/Form";
 // );
 
 const App = () => (
-    <Form />
+    <Home />
     );
 
 
